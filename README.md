@@ -135,3 +135,5 @@ const button = document.querySelector('button');
 button.addEventListener('click', function() {
 	alert('Победи себя и ты выиграешь тысячи битв!')
 })
+
+
